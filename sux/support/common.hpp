@@ -35,7 +35,7 @@
 #include <inttypes.h>
 #include <memory>
 #include <x86intrin.h>
-
+#include <arm_neon.h>
 // Macro stringification
 #define __STRINGIFY(s) #s
 #define STRINGIFY(s) __STRINGIFY(s)
